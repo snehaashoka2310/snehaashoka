@@ -1,2 +1,7 @@
 Hi good Day
+<<<<<<< HEAD
+Hello
+=======
 hello
+>>>>>>> master
+hi
