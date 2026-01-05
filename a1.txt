@@ -1,6 +1,13 @@
 Hello good day
+<<<<<<< HEAD
 Hi
 hi
 hi
 hello
 
+=======
+hi
+Hi
+hi
+hello
+>>>>>>> c09c1db141a926377cb8685f7f8f0f9ee9ab8fe8
